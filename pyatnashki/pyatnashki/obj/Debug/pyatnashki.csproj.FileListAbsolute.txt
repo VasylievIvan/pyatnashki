@@ -1,0 +1,15 @@
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\bin\Debug\pyatnashki.exe.config
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\bin\Debug\pyatnashki.exe
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\bin\Debug\pyatnashki.pdb
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csprojResolveAssemblyReference.cache
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\MainWindow.g.cs
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\App.g.cs
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki_MarkupCompile.cache
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki_MarkupCompile.lref
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\MainWindow.baml
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.g.resources
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.Properties.Resources.resources
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csproj.GenerateResource.Cache
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.exe
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\pyatnashki.pdb
+C:\Users\Ruplix\Documents\GitHub\pyatnashki\pyatnashki\pyatnashki\obj\Debug\GeneratedInternalTypeHelper.g.cs
